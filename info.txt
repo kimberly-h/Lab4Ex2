@@ -1,0 +1,10 @@
+Kimberly Hansuwan 100752265
+Lab 4 Exercise 2
+https://github.com/kimberly-h/Lab4Ex2
+
+I created a smiley face that makes the "bruh" sound effect. 
+The way that I did this was first creating my scripts consisting of the scores 
+and health that would change when clicking the spheres. The scores increase by
+increments when clicked while the health would decrease by 10s. When creating the
+audio scripts I created what would happen when the player click's the spheres
+and when it would play audio "+=" for enable and "-=" for disable.
